@@ -1,11 +1,11 @@
 - profile:
-  initials: JD
-  name: John Doe
-  profession: Web Developer
+  initials: SP
+  name: Sandeep Potturi
+  profession: Software Engineer
   image: images/profile.jpg
-  location: New York, USA
+  location: Fairfax, USA
   relocation: true
-  company: Atomic Studio
+  company: George Mason University
   for_hire: true
   focus: Learning Gatsby
   focus_url: https://gatsbyjs.org
